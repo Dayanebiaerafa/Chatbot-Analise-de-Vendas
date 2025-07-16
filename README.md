@@ -21,7 +21,7 @@ Este projeto passou por uma significativa evolução, transformando um script si
 ### Versão Atual (Streamlit - Aprimorada)
 
 * **Foco:** Construir uma aplicação web completa e interativa para análise de vendas com foco na usabilidade e visualização.
-* **Dados Expandidos:** `DataFrame` maior e mais rico, incluindo `Quantidade`, `Valor Unitario`, `Data Compra`, além de colunas derivadas como `Total Venda`, `Ano`, `Mes_Num`, `Mes`.
+* **Dados Expandidos:** `DataFrame` maior e mais rico, incluindo `Quantidade`, `Valor Unitario`, `Data Compra`, além de colunas derivadas como `Total Venda`, `Ano`, `Mes`.
 * **Funcionalidades de Dados:**
     * Carga de dados otimizada com `@st.cache_data`.
     * Cálculo de `Total Venda`.
